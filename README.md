@@ -1,4 +1,5 @@
-﻿#OMDb API -MOVIEAPP
+
+# OMDb API -MOVIEAPP
 
 ## 샘플사이트 [Demo](https://movie-app-weld-xi.vercel.app/#/)
 
